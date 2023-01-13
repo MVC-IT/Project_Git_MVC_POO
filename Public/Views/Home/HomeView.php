@@ -1,0 +1,1 @@
+<main><h1>Home View Coucou</h1></main>
